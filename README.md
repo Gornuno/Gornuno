@@ -6,10 +6,10 @@ Olá! Este é o meu espaço no Github, onde compartilho diversos projetos e cód
 
 Aqui estão alguns dos projetos que você pode encontrar neste repositório:
 
-1. **Projeto 1** - Um sistema de gerenciamento de tarefas desenvolvido em Python.
-2. **Projeto 2** - Um aplicativo de lista de compras desenvolvido com React Native.
-3. **Projeto 3** - Um jogo de quiz em Javascript.
-4. **Projeto 4** - Um blog pessoal criado em WordPress.
+1. **Projeto 1** - 
+2. **Projeto 2** -
+3. **Projeto 3** - 
+4. **Projeto 4** -
 
 ## Tecnologias Utilizadas
 
