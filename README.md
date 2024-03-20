@@ -6,7 +6,7 @@ Olá! Este é o meu espaço no Github, onde compartilho diversos projetos e cód
 
 Aqui estão alguns dos projetos que você pode encontrar neste repositório:
 
-1. **Projeto 1** - 
+1. **Sabor Express** - Projeto desenvolvido em Python para listagem, cadastro e gerenciamento de informações de restaurantes.
 2. **Projeto 2** -
 3. **Projeto 3** - 
 4. **Projeto 4** -
