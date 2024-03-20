@@ -28,7 +28,7 @@ Se você gostou de algum projeto e quer contribuir para torná-lo ainda melhor, 
 Caso queira entrar em contato comigo, você pode me encontrar nas seguintes redes sociais:
 
 - [LinkedIn](https://www.linkedin.com/in/igor-nuno/)
-- [Instagram](wwww.instagram.com/gornuno/)
+- [Instagram](http://www.instagram.com/gornuno/)
 - E-mail: igor.nuno@gmail.com
 
 Obrigado por visitar o meu repositório! Espero que encontre algo interessante por aqui. :)
