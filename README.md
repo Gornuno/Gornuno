@@ -6,19 +6,21 @@ Olá! Este é o meu espaço no Github, onde compartilho diversos projetos e cód
 
 Aqui estão alguns dos projetos que você pode encontrar neste repositório:
 
-1. **Sabor Express** - Projeto desenvolvido em Python para listagem, cadastro e gerenciamento de informações de restaurantes.
-2. **Projeto 2** -
-3. **Projeto 3** - 
-4. **Projeto 4** -
+Projetos desenvolvidos:
+-----|
+|1. **Sabor Express** - Projeto desenvolvido em Python para listagem, cadastro e gerenciamento de informações de restaurantes.
+|2. **Projeto 2** -
+|3. **Projeto 3** - 
+|4. **Projeto 4** -
 
 ## Tecnologias Utilizadas
 
 Alguns das principais tecnologias que uso nos meus projetos:
 ----------|
-| Python|
-| Javascript|
-| HTML/CSS|
-----------|
+| Python
+| Javascript
+| HTML/CSS
+
 ## Como Contribuir
 
 Se você gostou de algum projeto e quer contribuir para torná-lo ainda melhor, fique à vontade para abrir um pull request com suas alterações. Sua contribuição é muito bem-vinda!
